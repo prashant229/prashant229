@@ -4,8 +4,7 @@
 
 
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on web development
-- 🖖  I’m looking to collaborate on Open-Source Projects.
+
 -- 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-PrashantTiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/prashant-tiwari-593087206)](https://www.linkedin.com/in/prashant-tiwari-593087206)
