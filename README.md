@@ -19,12 +19,6 @@ def MyLife(){
 
 
 
-- 🌱 I’m currently learning python
-
--- 📫 How to reach me: 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-tiwari-593087206/" target="blank"><img align="center" src="img/linkedin.png" alt="0xYashAnand" height="40" width="40" /></a>
