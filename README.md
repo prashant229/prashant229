@@ -49,7 +49,17 @@ def MyLife(){
 
 
 ## Watch my contribution graph being eaten by a snake🐍
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xYashAnand&show_icons=true&locale=en&layout=compact" alt="0xYashAnand" /></p>
+<br />
 
+![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashant229&show_icons=true&hide_border=true)
+<br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=prashant229.prashant229)
+
+<!---
+prashant229/prashant229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <p align="center">
-  <img src="https://github.com/arnav1776/arnav1776/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/prashant229/prashant229/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
