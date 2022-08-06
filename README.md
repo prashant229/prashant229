@@ -29,8 +29,8 @@ def MyLife(){
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-tiwari-593087206/" target="blank"><img align="center" src="img/linkedin.png" alt="0xYashAnand" height="40" width="40" /></a>
 
-<a href="https://www.codechef.com/users/prash_827" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/prashant728" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/prashant728" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/prash_827" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
 <br/>
   - 📫 How to reach me **prashantabcd6205@gmail.com**
 
