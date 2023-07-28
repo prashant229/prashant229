@@ -21,10 +21,10 @@ def MyLife(){
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prashant-tiwari-593087206/" target="blank"><img align="center" src="img/linkedin.png" alt="0xYashAnand" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/prashant-tiwari-593087206/" target="blank"><img align="center" src="img/linkedin.png" alt="Prashant_Tiwari" height="40" width="40" /></a>
 
-<a href="https://codeforces.com/profile/prashant728" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Yash0x" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/prash_827" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Yash0x" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/prashant728" target="blank"><img align="center" src="img/codeforces.-programming-.png" alt="Prashant_Tiwari" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/prash_827" target="blank"><img align="center" src="img/icons8-codechef-240.png" alt="Prashant_Tiwari" height="40" width="40" /></a>
 <br/>
   - 📫 How to reach me **prashantabcd6205@gmail.com**
 
@@ -36,12 +36,12 @@ def MyLife(){
 - Languages: JavaScript, C/C++, HTML, CSS.
 - Frameworks/Libraries: NodeJs
 - Platforms/Studios: Android Studio
-- Technologies: Web Development, UI/UX Designing. </br>
+- Technologies: Web Development. </br>
 
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xYashAnand&show_icons=true&locale=en&layout=compact" alt="0xYashAnand" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant_Tiwari&show_icons=true&locale=en&layout=compact" alt="0xYashAnand" /></p>
 <br />
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashant229&show_icons=true&hide_border=true)
